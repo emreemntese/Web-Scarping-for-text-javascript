@@ -3,4 +3,6 @@
   
   Thank you for read.
 
-#License
+# License
+Creative Commons Legal Code
+CC0 1.0 Universal
