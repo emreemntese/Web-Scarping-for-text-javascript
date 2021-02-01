@@ -4,5 +4,6 @@
   Thank you for read.
 
 # License
-Creative Commons Legal Code
-CC0 1.0 Universal
+
+  Creative Commons Legal Code
+  CC0 1.0 Universal
